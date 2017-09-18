@@ -1,0 +1,3 @@
+HelpMojo.class
+net/birelian/liquibase/converter/exception/ApplicationException.class
+net/birelian/liquibase/converter/mojo/XmlToYamlConverterMojo.class
